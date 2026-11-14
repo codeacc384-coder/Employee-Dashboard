@@ -1,0 +1,6 @@
+{
+  "name": "PayFuse — Employee Self-Service Portal",
+  "description": "Enterprise Employee Self-Service Portal for PayFuse multi-tenant HRMS, payroll, attendance, leave, tax declarations, reimbursements, and manager approvals.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
